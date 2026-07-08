@@ -8,7 +8,7 @@ The demo question is:
 
 The point is not to let AI decide the answer. The point is to use AI as a workflow assistant while keeping sources, notes, and claims traceable.
 
-The classroom version is self-contained. We do not depend on live search or live download during the demo. Scene 1 shows what a source-finding agent should return; Scenes 2 and 3 use the prepared 1908 PDF and evidence record already in this workspace.
+The classroom version is prepared for use without live search or live download during the demo. Scene 1 shows what a source-finding agent should return; Scenes 2 and 3 use the prepared 1908 PDF and evidence record already in this workspace.
 
 ## Folder Structure
 
