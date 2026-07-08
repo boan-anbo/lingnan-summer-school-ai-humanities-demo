@@ -4,7 +4,7 @@
 
 Collect exactly one promising open-internet source candidate for the question:
 
-> Did Lingnan begin or found in Macau around 1899, or in Guangzhou/Canton?
+> Did Lingnan begin in Macau around 1899, or in Guangzhou/Canton?
 
 The agent was instructed not to make the final historical judgment.
 
